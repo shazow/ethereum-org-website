@@ -101,6 +101,12 @@ Ethereum has a large and growing number of tools to help developers build, test,
 ### Looking for other options?
 - [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
 
+## Backend APIs
+
+### Infura *Ethereum API as a Service*
+
+- [infura.io](https://infura.io)
+
 ## Security tools
 ### Slither *Solidity static analysis framework written in Python 3*
 - [Github](https://github.com/crytic/slither)
